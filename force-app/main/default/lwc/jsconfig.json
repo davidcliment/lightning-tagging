@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "c/pubsub": [
+                "pubsub/pubsub.js"
+            ],
+            "c/relatedTagList": [
+                "relatedTagList/relatedTagList.js"
+            ],
+            "c/tagging": [
+                "tagging/tagging.js"
+            ]
+        }
+    }
+}
